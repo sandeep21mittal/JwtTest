@@ -1,5 +1,4 @@
-name: .NET Core CI/CD
-
+name: JwtTest
 on:
   push:
     branches:
