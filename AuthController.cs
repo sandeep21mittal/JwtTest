@@ -15,7 +15,6 @@ namespace jwtAuthapi
         private readonly IConfiguration _configuration;
         private readonly string _key = "ThisIsASecretKeyForJwtTokenDontShare";
 
-
         public AuthController(IConfiguration configuration)
         {
             _configuration = configuration;
