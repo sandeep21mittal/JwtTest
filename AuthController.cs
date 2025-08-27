@@ -18,6 +18,7 @@ namespace jwtAuthapi
         public AuthController(IConfiguration configuration)
         {
             _configuration = configuration;
+
         }
 
 
